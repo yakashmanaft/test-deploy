@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpocket"]=self["webpackChunkpocket"]||[]).push([[443],{9763:function(n,e,t){t.r(e),t.d(e,{default:function(){return k}});var u=t(3396);const a={class:"about"},c=(0,u._)("h1",null,"This is an about page fuck yeah",-1),r=[c];function s(n,e){return(0,u.wg)(),(0,u.iD)("div",a,r)}var o=t(89);const i={},f=(0,o.Z)(i,[["render",s]]);var k=f}}]);
+//# sourceMappingURL=about.47d8519d.js.map
